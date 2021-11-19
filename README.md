@@ -13,3 +13,4 @@ Miniprojetos para treinar as habilidades em Python.
 | 7  | [Blackjack](https://github.com/vhsenna/python-projects/tree/main/blackjack) |
 | 8  | [Coffee Machine](https://github.com/vhsenna/python-projects/tree/main/coffee_machine) |
 | 9  | [Quiz Game](https://github.com/vhsenna/python-projects/tree/main/quiz) |
+| 10 | [Snake Game](https://github.com/vhsenna/python-projects/tree/main/snake_game) |
