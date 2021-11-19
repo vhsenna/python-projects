@@ -11,3 +11,4 @@ Miniprojetos para treinar as habilidades em Python.
 | 5  | [Secret auction](https://github.com/vhsenna/python-projects/tree/main/secret_auction) |
 | 6  | [Caesar Cipher](https://github.com/vhsenna/python-projects/tree/main/caesar_cipher) |
 | 7  | [Blackjack](https://github.com/vhsenna/python-projects/tree/main/blackjack) |
+| 8  | [Coffee Machine](https://github.com/vhsenna/python-projects/tree/main/coffee_machine) |
