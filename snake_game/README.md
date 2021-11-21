@@ -8,4 +8,6 @@ O jogador controla uma cobra que se arrasta pela tela, coletando comida, não po
 
 Controle a direção da cabeça da serpente utilizando as setas do teclado (para cima, para baixo, esquerda e direita).
 
+Por fim, será mostrado o score atual e o maior score atingido pelo jogador.
+
 ![](https://github.com/vhsenna/python-projects/blob/main/snake_game/img/peek.gif?raw=true)
