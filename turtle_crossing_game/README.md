@@ -11,3 +11,5 @@ Os carros são gerados aleatoriamente ao longo da pista e se moverão da borda d
 Quando a tartaruga atinge a borda superior da tela, ela volta à posição original e o jogador sobe de nível. No próximo nível, a velocidade dos carros aumenta.
 
 Quando a tartaruga colide com um carro, o jogo termina e tudo para.
+
+![](https://github.com/vhsenna/python-projects/blob/main/turtle_crossing_game/img/peek.gif)
