@@ -17,3 +17,4 @@ Miniprojetos para treinar as habilidades em Python.
 | 11 | [Turtle Crossing Game](https://github.com/vhsenna/python-projects/tree/main/turtle_crossing_game) |
 | 12 | [Pounds to Kilograms Converter](https://github.com/vhsenna/python-projects/tree/main/lb_to_kg) |
 | 13 | [Pomodoro App](https://github.com/vhsenna/python-projects/tree/main/pomodoro_app) |
+| 14 | [Password Manager](https://github.com/vhsenna/python-projects/tree/main/password_manager) |
