@@ -1,5 +1,7 @@
 # Pomodoro App
 
+![](https://github.com/vhsenna/python-projects/blob/main/pomodoro_app/img/peek.gif)
+
 ## Sobre
 O Pomodoro é um método de gerenciamento de tempo desenvolvido por [Francesco Cirillo](https://francescocirillo.com/pages/pomodoro-technique) no final dos anos 1980 para melhorar os hábitos de fluxo de trabalho e retenção de informações.
 
@@ -8,7 +10,7 @@ A técnica consiste na utilização de um cronômetro para dividir o trabalho em
 ## Como funciona
 Clique em 'Start' para iniciar o Pomodoro.
 
-A cada tempo de 25 minutos, intervalos de 5 minutos. A cada quatro tempos de 25 minutos, um intervalo de 15 minutos. O aplicativo possui sons distintos para sinalizar o início do intervalo e tempo. O aplicativo aparece quando minimizado ou em segundo plano para lembrar o usuário de fazer pausas ou voltar ao trabalho/estudo.
+A cada tempo de 25 minutos, intervalos de 5 minutos. A cada quatro tempos de 25 minutos, um intervalo de 15 minutos. O aplicativo possui sons distintos para sinalizar o início do intervalo e tempo. O aplicativo, quando minimizado ou em segundo plano, aparece na frente para lembrar o usuário de fazer pausas ou voltar ao trabalho/estudo.
 
 Um contador é mostrado na tela para manter o controle dos tempos concluídos. O botão 'Reset' reinicia o contador na tela.
 
