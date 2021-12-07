@@ -1,5 +1,8 @@
 # Password Manager
 
+![](https://github.com/vhsenna/python-projects/blob/main/password_manager/img/screen_gif.gif)
+![](https://github.com/vhsenna/python-projects/blob/main/password_manager/img/screen_img.png)
+
 ## Sobre
 Gerenciador de senhas que armazena website, nome de usuário e senha.
 
