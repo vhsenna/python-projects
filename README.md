@@ -18,3 +18,5 @@ Miniprojetos para treinar as habilidades em Python.
 | 12 | [Pounds to Kilograms Converter](https://github.com/vhsenna/python-projects/tree/main/lb_to_kg) |
 | 13 | [Pomodoro App](https://github.com/vhsenna/python-projects/tree/main/pomodoro_app) |
 | 14 | [Password Manager](https://github.com/vhsenna/python-projects/tree/main/password_manager) |
+| 15 | [ISS Overhead Notifier](https://github.com/vhsenna/python-projects/tree/main/iss_overhead_notifier) |
+| 16 | [Quiz API](https://github.com/vhsenna/python-projects/tree/main/quiz_api) |
