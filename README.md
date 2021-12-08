@@ -20,3 +20,4 @@ Miniprojetos para treinar as habilidades em Python.
 | 14 | [Password Manager](https://github.com/vhsenna/python-projects/tree/main/password_manager) |
 | 15 | [ISS Overhead Notifier](https://github.com/vhsenna/python-projects/tree/main/iss_overhead_notifier) |
 | 16 | [Quiz API](https://github.com/vhsenna/python-projects/tree/main/quiz_api) |
+| 17 | [Rain Alert](https://github.com/vhsenna/python-projects/tree/main/rain_alert) |
